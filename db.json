@@ -1,12 +1,12 @@
 {
   "movies": [
     {
-      "id": 1,
+      "id": "1",
       "title": "The Brave Little Toaster",
       "summary": "A group of appliances set off on a journey"
     },
     {
-      "id": 2,
+      "id": "2",
       "title": "The Princess Bride",
       "summary": "A mix of swashbuckling, romance, and comedy"
     },
